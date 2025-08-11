@@ -32,7 +32,7 @@ The main goal of this project is to:
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/go-todo-cli.git
+git clone https://github.com/quochao170402/go-todo-cli.git
 cd go-todo-cli
 go mod tidy
 ```
