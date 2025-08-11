@@ -1,0 +1,82 @@
+[
+  {
+    "id": "955e26bc-66d8-486f-a65e-f53a841196d5",
+    "title": "implement todolist",
+    "description": "abbccdd",
+    "done": false,
+    "created_at": "2025-08-11T19:25:48.439833+07:00",
+    "updated_at": "2025-08-11T19:25:48.439833+07:00"
+  },
+  {
+    "id": "2e7bb883-3f7f-4651-99e8-90415d18dbe7",
+    "title": "Public Todo List CLI",
+    "description": "Config GitHub repository and public the project",
+    "done": false,
+    "created_at": "2025-08-11T19:25:56.733134+07:00",
+    "updated_at": "2025-08-11T19:38:04.807826+07:00"
+  },
+  {
+    "id": "ce3fbe50-54ea-46d6-a548-ceb4da91be8c",
+    "title": "Buy groceries",
+    "description": "Milk, bread, eggs, fruits",
+    "done": false,
+    "created_at": "2025-08-11T19:45:59.449226+07:00",
+    "updated_at": "2025-08-11T19:45:59.449226+07:00"
+  },
+  {
+    "id": "a78892e3-3eab-455a-b2d4-14e5f68625a5",
+    "title": "Read Go book",
+    "description": "Finish concurrency chapter",
+    "done": false,
+    "created_at": "2025-08-11T19:45:59.684042+07:00",
+    "updated_at": "2025-08-11T19:45:59.684042+07:00"
+  },
+  {
+    "id": "f4ce888b-c10a-4b62-b932-1c170dc536c8",
+    "title": "Write blog post",
+    "description": "Topic: Go CLI project structure",
+    "done": false,
+    "created_at": "2025-08-11T19:45:59.74706+07:00",
+    "updated_at": "2025-08-11T19:45:59.74706+07:00"
+  },
+  {
+    "id": "a50386ce-4bfe-4cc6-b561-57330a70b9dd",
+    "title": "Setup GitHub Actions",
+    "description": "Automate testing and build",
+    "done": false,
+    "created_at": "2025-08-11T19:45:59.799373+07:00",
+    "updated_at": "2025-08-11T19:45:59.799373+07:00"
+  },
+  {
+    "id": "76e137a5-9b81-48c3-a4ca-4d630d9e403b",
+    "title": "Clean workspace",
+    "description": "Organize desk and cables",
+    "done": false,
+    "created_at": "2025-08-11T19:45:59.850593+07:00",
+    "updated_at": "2025-08-11T19:45:59.850593+07:00"
+  },
+  {
+    "id": "5a8c59d7-a765-4a95-af6e-e8a7b3643edf",
+    "title": "Backup photos",
+    "description": "Copy photos to external SSD",
+    "done": true,
+    "created_at": "2025-08-11T19:46:32.054368+07:00",
+    "updated_at": "2025-08-11T19:47:00.372546+07:00"
+  },
+  {
+    "id": "0a90d66a-f735-4bbd-bc61-e5a6240b319a",
+    "title": "Plan trip",
+    "description": "Book flights and hotel for Da Nang",
+    "done": false,
+    "created_at": "2025-08-11T19:46:32.106807+07:00",
+    "updated_at": "2025-08-11T19:46:32.106807+07:00"
+  },
+  {
+    "id": "e0855b28-f0ae-4dbe-96cc-8d38bff5c0f8",
+    "title": "Refactor code",
+    "description": "Improve error handling",
+    "done": false,
+    "created_at": "2025-08-11T19:46:32.158177+07:00",
+    "updated_at": "2025-08-11T19:46:32.158177+07:00"
+  }
+]
