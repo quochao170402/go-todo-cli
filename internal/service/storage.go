@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"fmt"
 	"os"
-	"todo/data"
+	"todo/internal/data"
 )
 
 const Filename = "store/tasks.json"
